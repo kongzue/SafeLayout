@@ -1,0 +1,3 @@
+include ':SafeLayout'
+include ':app'
+rootProject.name = "SafeLayoutDemo"
