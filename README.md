@@ -6,7 +6,10 @@ fitsSystemWindows愚蠢在它是消费型的，在一个Activity界面里，设�
 例如你一个Activity带多个Fragment，那么Fragment里的布局设置fitsSystemWindows是无效的。
 
 # Demo
+![基础对话框 MessageDialog和 输入对话框 InputDialog](https://github.com/kongzue/SafeLayout/raw/master/README_RES/1.png)
+
 使用`app:safePadding="true"`开启自动padding非安全区。
+
 ```
 <com.kongzue.safelayout.SafeRelativeLayout
     android:layout_width="match_parent"
